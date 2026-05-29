@@ -25,6 +25,7 @@ game/
     ├── player-handler/     # Modul penanganan status pemain
     │   └── player.c
     └── main.c              # Berkas utama untuk menjalankan program
+    ```
 Penjelasan Direktori:
 scheme/: Tempat untuk menyimpan semua berkas header (.h). Bagian ini khusus digunakan untuk deklarasi struktur data (struct), makro (#define), dan prototipe fungsi.
 
